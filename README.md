@@ -1,13 +1,13 @@
 <div align="center">
 
-<!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&text=obito&fontSize=92&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20·%20Frontend%20Architecture%20·%20Backend%20Systems&descAlignY=56&descSize=20"/>
+<!-- HERO -->
+<img src="https://capsule-render.vercel.app/api?type=rect&height=260&text=obito&fontSize=96&fontColor=00FFD1&animation=fadeIn&fontAlignY=45&desc=Full-Stack%20Engineer%20·%20Systems%20Design%20·%20Technical%20Direction&descAlignY=68&descSize=20&color=0d1117"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3500&pause=1200&center=true&vCenter=true&repeat=true&width=820&height=80&lines=Full-Stack+Engineer;Designing+Systems%2C+Not+Just+Screens;Frontend+Architecture+%26+Backend+Logic;Clean+Code+Over+Trendy+Code;Build+Once%2C+Maintain+Forever"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=4000&pause=1500&color=00FFD1&center=true&vCenter=true&repeat=true&width=900&height=70&lines=Designing+Systems+That+Survive+Change;Frontend+Architecture+%7C+Backend+Logic;Clarity+Over+Complexity;Decisions+Over+Features"/>
 
 </div>
 
@@ -16,106 +16,105 @@
 <br/>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=obito&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/obito?style=for-the-badge"/>
-<img src="https://img.shields.io/github/stars/obito?style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=obito&style=for-the-badge&color=00FFD1"/>
 </div>
 
 <br/>
 
-<img align="right" width="420" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif"/>
+---
 
-## About
+## Identity
 
 ```ts
-class FullStackEngineer {
-  name = "Yassine Marroun";
-  handle = "obito";
-
-  worksOn = [
-    "Frontend architecture",
-    "Backend APIs & data models",
-    "System clarity",
-    "Maintainable codebases"
-  ];
-
-  beliefs() {
-    return [
-      "Simple systems outlive clever ones",
-      "Code is a communication tool",
-      "Constraints create better design"
-    ];
-  }
+interface Engineer {
+  name: "Yassine Marroun";
+  handle: "obito";
+  scope: "Full-Stack";
+  focus: "System design & long-term maintainability";
 }
-I design and build full-stack applications where structure matters more than scale.
+```
 
-My work focuses on:
+I design and evolve **full-stack systems** where:
 
-turning messy requirements into clear systems
+* structure outlives trends
+* constraints guide better decisions
+* codebases remain understandable years later
 
-building UIs that reflect real workflows
+I'm not interested in surface-level scale.
+I'm interested in **systems that don't collapse under change**.
 
-designing backends that stay boring and reliable
+---
 
-Linux daily user.
-I optimize both developer experience and user clarity.
+## Areas of Responsibility
 
-<br clear="right"/>
-🧠 Core Focus Areas
-<table> <tr> <td align="center" width="33%"> <b>Frontend Systems</b><br/> Component architecture<br/> State & data flow<br/> Consistency at scale </td> <td align="center" width="33%"> <b>Backend Engineering</b><br/> REST / GraphQL APIs<br/> Authentication & roles<br/> Business logic </td> <td align="center" width="33%"> <b>Data & Infrastructure</b><br/> Schema design<br/> Caching strategies<br/> Deployment basics </td> </tr> </table>
-🚀 Selected Work (Case-Study Driven)
-OpsBoard — Internal Operations Platform
-Context
-Ops teams relied on a slow, inconsistent dashboard that caused workarounds.
+<table>
+<tr>
+<td width="33%" align="center">
+<b>Frontend Systems</b><br/>
+Component architecture<br/>
+State boundaries<br/>
+UI as system behavior
+</td>
+<td width="33%" align="center">
+<b>Backend Architecture</b><br/>
+APIs & domain logic<br/>
+Auth & permissions<br/>
+Predictable services
+</td>
+<td width="33%" align="center">
+<b>Technical Direction</b><br/>
+Tradeoff evaluation<br/>
+Refactors with intent<br/>
+Long-term code health
+</td>
+</tr>
+</table>
 
-Key Decision
-Reduced surface area instead of adding features.
+---
 
-Outcome
-Daily workflows became faster, clearer, and more predictable.
+## Selected Work
 
-ProductSite — Public Web Platform
-Context
-Users struggled to understand the product’s value.
+### OpsBoard — Internal Platform
+**Problem:** Operational workflows slowed by fragmented UI and unreliable data flows.  
+**Decision:** Reduce system surface area instead of adding features.  
+**Outcome:** Clearer workflows, fewer workarounds, higher trust in the system.
 
-Key Decision
-Rebuilt structure around user questions, not marketing claims.
+### ProductSite — Public Platform
+**Problem:** Users couldn't quickly understand product value.  
+**Decision:** Rebuild information hierarchy around user intent.  
+**Outcome:** Faster comprehension and calmer navigation.
 
-Outcome
-Clearer navigation and faster comprehension.
+### CleanFront — Frontend Refactor
+**Problem:** Legacy frontend made safe changes difficult.  
+**Decision:** Introduce explicit boundaries and conventions.  
+**Outcome:** Safer iteration and faster development cycles.
 
-CleanFront — Frontend Refactor
-Context
-A growing frontend had become fragile and hard to change.
+---
 
-Key Decision
-Introduced explicit boundaries and conventions.
+## Technical Baseline
 
-Outcome
-Safer changes and faster iteration.
-
-🛠️ Tools I Rely On
 <div align="center">
 
-
-
-
-
-
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=00FFD1)
+![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=00FFD1)
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=00FFD1)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=00FFD1)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=00FFD1)
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=00FFD1)
 
 </div>
-📊 GitHub Activity
-<div align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=obito&show_icons=true&hide_border=true"/> <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=obito&layout=compact&hide_border=true"/> </div>
-🧭 How I Approach Engineering
-Fewer concepts beat flexible abstractions
 
-If something is hard to explain, it’s probably wrong
+---
 
-Boring solutions scale better
+## Engineering Principles
 
-Good defaults reduce cognitive load
+* Fewer abstractions beat flexible ones
+* Every decision has a cost — acknowledge it
+* If a system is hard to explain, it's poorly designed
+* Boring systems are resilient systems
 
-📫 Contact
-GitHub: @obito
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&text=Design%20Systems%20That%20Last&fontSize=28"/> ```
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=120&section=footer&text=Design%20for%20Longevity&fontSize=24&fontColor=00FFD1&color=0d1117"/>
+</div>
