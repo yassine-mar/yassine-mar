@@ -1,122 +1,48 @@
-👋 Hi, I’m Yassine Marroun (obito)
+<div align="center">
 
-I’m a frontend-focused developer who cares about clarity, structure, and long-term maintainability.
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&text=obito&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20|%20Frontend%20Systems%20|%20Backend%20Architecture&descAlignY=55&descSize=20"/>
 
-I enjoy working on:
+</div>
 
-Interfaces that explain themselves
+<div align="center">
 
-Systems that don’t fight the developer
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&center=true&vCenter=true&repeat=true&width=800&height=80&lines=Full-Stack+Engineer;Frontend+Architecture+%26+UI+Systems;Backend+APIs+%26+Data+Modeling;Clean+Code+Over+Clever+Code;Build+Things+That+Last" />
 
-Codebases that stay understandable as they grow
+</div>
 
-Most of my work lives at the intersection of UI, architecture, and developer experience.
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
-🧠 What I’m Good At
+<br/>
 
-Frontend
+<div align="center">
 
-JavaScript / TypeScript
+<img src="https://komarev.com/ghpvc/?username=obito&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/obito?style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/obito?style=for-the-badge"/>
 
-Modern UI architecture
+</div>
 
-Component-driven development
+<br/>
 
-State management & data flow
+<img align="right" width="420" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif"/>
 
-Performance and rendering behavior
+## About
 
-UI / UX Thinking
+```ts
+class FullStackEngineer {
+  name = "Yassine Marroun";
+  handle = "obito";
 
-Turning vague requirements into clear interfaces
+  focus = [
+    "Frontend architecture",
+    "Backend APIs",
+    "System clarity",
+    "Maintainable codebases"
+  ];
 
-Reducing complexity instead of adding features
-
-Designing flows that match how users actually work
-
-Engineering Practices
-
-Refactoring legacy code safely
-
-Establishing conventions in messy codebases
-
-Writing code for future readers (including myself)
-
-Environment
-
-Linux (Hyprland user)
-
-Comfortable with customization, tooling, and workflows
-
-Care about aesthetics and ergonomics
-
-📌 Selected Projects
-
-These projects focus on decisions and outcomes, not hype.
-
-🧩 OpsBoard — Internal Operations Dashboard
-
-Problem:
-Operations teams relied on a slow, inconsistent dashboard that caused manual workarounds and frequent errors.
-
-What I Did:
-
-Reworked core flows instead of adding features
-
-Simplified data presentation to match real tasks
-
-Prioritized reliability and clarity over visual polish
-
-Outcome:
-Daily workflows became easier to understand and less error-prone, improving trust in the tool.
-
-🌐 ProductSite — Public Website Redesign
-
-Problem:
-The product website failed to clearly communicate value, leading to confusion among potential users.
-
-What I Did:
-
-Reframed content around user questions, not marketing language
-
-Reduced pages and components instead of expanding them
-
-Designed structure before visuals
-
-Outcome:
-The site became easier to navigate and understand, helping users quickly decide if the product was right for them.
-
-🛠️ CleanFront — Legacy Frontend Refactor
-
-Problem:
-A growing frontend codebase was hard to change safely and slowed down development.
-
-What I Did:
-
-Introduced clearer boundaries and conventions
-
-Reduced implicit coupling between components
-
-Focused on readability over clever abstractions
-
-Outcome:
-The codebase became easier to extend and reason about, enabling faster and safer iteration.
-
-🧪 What I Care About (More Than Tools)
-
-Fewer concepts, not more
-
-Predictable systems
-
-Honest tradeoffs
-
-Code that explains why, not just how
-
-I’m not interested in buzzwords or trend-chasing.
-I care about work that holds up over time.
-
-📫 Contact
-
-GitHub: @obito
-
-Open to collaboration, learning, and meaningful work
+  philosophy() {
+    return "Simple systems survive longer than clever ones.";
+  }
+}
